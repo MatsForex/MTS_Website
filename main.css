@@ -29,13 +29,11 @@ body {
   }
 
   .description {
-    left: 50%;
-    position: absolute;
-    top: 25%;
-    transform: translate(-50%, -55%);
-    text-align: center;
+    margin: 10px;
+    
   }
   .description h1 {
+    font-size: 1.5rem;
     color: #6ab446;
   }
   .description p {
